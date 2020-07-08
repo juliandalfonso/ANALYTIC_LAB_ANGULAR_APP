@@ -1,6 +1,5 @@
 import { Component, OnInit} from '@angular/core';
 import {environment} from '../../environments/environment';
-
 import * as Mapboxgl from 'mapbox-gl';
 
 @Component({

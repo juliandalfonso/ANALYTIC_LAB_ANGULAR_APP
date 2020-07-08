@@ -21,6 +21,7 @@
     "@angular/platform-browser-dynamic": "~10.0.2",
     "@angular/router": "~10.0.2",
     "bootstrap": "^4.5.0",
+    "express": "^4.17.1",
     "firebase": "^7.15.5",
     "jquery": "^3.5.1",
     "mapbox-gl": "^1.11.1",

@@ -7,12 +7,14 @@ import {environment} from '../environments/environment';
 import {AngularFirestoreModule} from '@angular/fire/firestore';
 import { CommercesComponent } from './commerces/commerces.component';
 import { MapComponent } from './map/map.component';
+import { LayerComponent } from './commerces/layer/layer.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     CommercesComponent,
-    MapComponent
+    MapComponent,
+    LayerComponent
   ],
   imports: [
     BrowserModule,
