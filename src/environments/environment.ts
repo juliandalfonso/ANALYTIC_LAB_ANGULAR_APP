@@ -4,7 +4,17 @@
 
 export const environment = {
   production: false,
-  mapboxKey: 'pk.eyJ1IjoianVsaWFuZGFsZm9uc28iLCJhIjoiY2tjY2xhMzQyMDFydDJwbHV0amxtbnFpciJ9.4cd-nHOlQCV8si-ryp2jYw'
+  mapboxKey: 'pk.eyJ1IjoianVsaWFuZGFsZm9uc28iLCJhIjoiY2tjY2xhMzQyMDFydDJwbHV0amxtbnFpciJ9.4cd-nHOlQCV8si-ryp2jYw',
+  firebase: {
+    apiKey: "AIzaSyDgh4Escn_XLsztkKvgMig3Ef3dYKs9TVc",
+    authDomain: "dashboardanalytic-33127.firebaseapp.com",
+    databaseURL: "https://dashboardanalytic-33127.firebaseio.com",
+    projectId: "dashboardanalytic-33127",
+    storageBucket: "dashboardanalytic-33127.appspot.com",
+    messagingSenderId: "436792712716",
+    appId: "1:436792712716:web:44bbfde5682a5f98e99829"
+  }
+  
 };
 
 /*
